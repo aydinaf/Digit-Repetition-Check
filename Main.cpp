@@ -1,5 +1,6 @@
 
-//#2: takes a digit and checks for repetition
+//takes a digit and checks for repetition
+// Aydin Azari Farhad
 #include <iostream>
 using namespace std;
 int main() {
